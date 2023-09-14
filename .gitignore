@@ -1,6 +1,1 @@
-#add the files that should be ignored when commiting to github or git e.g
 secrets.txt
-
-# use "#" to make comments 
-# make sure the file name is written according to the file name. that is, casing must match each other.
-#*.txt means all files with .txt will be ignored.
